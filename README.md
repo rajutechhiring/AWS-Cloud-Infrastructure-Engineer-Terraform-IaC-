@@ -1,0 +1,2 @@
+# AWS-Cloud-Infrastructure-Engineer-Terraform-IaC-
+Senior AWS Cloud Infrastructure Engineer, network topology and security posture to serverless “Security as Code”. Terraform (Required): 3+ years  AWS (Required): 4+ years: VPC, IAM, EC2, ECS/EKS, Lambda, S3, RDS/Aurora, CloudWatch, and CloudTrail. Containers &amp; Orchestration: EKS clusters through Terraform. Scripting &amp; Automation: Python or Bash
